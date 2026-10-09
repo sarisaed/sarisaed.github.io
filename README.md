@@ -18,7 +18,7 @@ Director - Etijahat Center Istanbul - MA Public Law 2020
 - فيسبوك - لقاءات مركز اتجاهات: https://www.facebook.com/share/v/18GgktoGV2/
 
 ## التوثيق الأكاديمي - Academic Profiles
-- ORCID: https://orcid.org/0009-0001-5704-4480
+- ORCID: https:https://orcid.org/0009-0008-4148-4669
 - OSF DOI الجديد: https://doi.org/10.17605/OSF.IO/YSTXU
 - Zenodo: https://doi.org/10.5281/zenodo.23111590
 - المنظومة: https://search.mandumah.com/Record/1354433
